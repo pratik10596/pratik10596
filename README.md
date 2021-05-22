@@ -7,7 +7,7 @@
 
 ## Languages and Tool
 <img alt="Git" align="left" width="50px" style="margin-right:15px" src="https://github.com/pratik10596/pratik10596/blob/main/images/openshift.png" />
-<img alt="Git" align="left" width="50px" style="margin-right:15px; margin-top:15px" src="https://github.com/pratik10596/pratik10596/blob/main/images/kubernetes.png" />
+<img alt="Git" align="left" width="50px" style="margin-right:15px; margin-top:35px" src="https://github.com/pratik10596/pratik10596/blob/main/images/kubernetes.png" />
 <img alt="Git" align="left" width="50px" style="margin-right:15px" src="https://github.com/pratik10596/pratik10596/blob/main/images/aws.png" />
 <img alt="Git" align="left" width="50px" style="margin-right:15px" src="https://github.com/pratik10596/pratik10596/blob/main/images/docker.png" />
 <img alt="Git" align="left" width="50px" style="margin-right:15px" src="https://github.com/pratik10596/pratik10596/blob/main/images/ansible.png" />
